@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_Projects/RV32I_Processor/pipelined_processor/pipelined_processor.srcs/sources_1/imports/processor_source_files/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_Projects/RV32I_Processor/pipelined_processor/pipelined_processor.srcs/sources_1/imports/processor_source_files/control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_Projects/RV32I_Processor/pipelined_processor/pipelined_processor.srcs/sources_1/imports/processor_source_files/control_alu_decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control_alu_decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_Projects/RV32I_Processor/pipelined_processor/pipelined_processor.srcs/sources_1/imports/processor_source_files/control_main_decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control_main_decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_Projects/RV32I_Processor/pipelined_processor/pipelined_processor.srcs/sources_1/imports/processor_source_files/data_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_Projects/RV32I_Processor/pipelined_processor/pipelined_processor.srcs/sources_1/imports/processor_source_files/extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_Projects/RV32I_Processor/pipelined_processor/pipelined_processor.srcs/sources_1/imports/processor_source_files/imem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module imem
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_Projects/RV32I_Processor/pipelined_processor/pipelined_processor.srcs/sources_1/imports/processor_source_files/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_Projects/RV32I_Processor/pipelined_processor/pipelined_processor.srcs/sources_1/imports/processor_source_files/pipeline_register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipeline_register
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_Projects/RV32I_Processor/pipelined_processor/pipelined_processor.srcs/sources_1/imports/processor_source_files/register_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_file
