@@ -85,12 +85,12 @@ module control_main_decoder
                 jump = 1'b0;
             end
             default: begin
-                branch = 1'bx;
+                branch = 1'b0;
                 result_src = 2'bxx;
-                mem_write = 1'bx;
+                mem_write = 1'b0;
                 alu_src = 1'bx;
                 imm_src = 3'bxxx;
-                reg_write = 1'bx;
+                reg_write = 1'b0;
                 alu_op = 2'bxx;
                 jump = 1'b0;
             end
