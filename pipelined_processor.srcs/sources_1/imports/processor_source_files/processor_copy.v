@@ -89,6 +89,7 @@ module processor
     wire MEM_WB_reg_write;
 
     wire branchOrJump;
+    wire instr_nop, pc_out_nop, pc_4_nop, IF_ID_instr_nop, IF_ID_pc_out_nop, IF_ID_pc_4_nop, read_data_1_nop, read_data_2_nop, imm_ext_nop, result_src_nop, mem_write_nop, alu_src_nop, reg_write_nop, branch_nop;
 
 ////////////////////////////////////////////////Fetch stage////////////////////////////////////////////
     assign pc_next = pc_src ? EX_MEM_pc_target[INST_MEMORY_ADDR_BUS_WIDTH - 1:0] : pc_4;
